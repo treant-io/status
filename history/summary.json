@@ -72,19 +72,19 @@
     "url": "https://app.treant.io",
     "icon": "https://favicons.githubusercontent.com/app.treant.io",
     "slug": "aquiles",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 369,
-    "timeDay": 148,
-    "timeWeek": 291,
-    "timeMonth": 369,
-    "timeYear": 369,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 363,
+    "timeDay": 182,
+    "timeWeek": 281,
+    "timeMonth": 363,
+    "timeYear": 363,
     "dailyMinutesDown": {
-      "2022-05-26": 0
+      "2022-05-26": 9
     }
   }
 ]
