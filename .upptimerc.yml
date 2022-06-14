@@ -4,7 +4,7 @@ repo: status # The name of this repository
 
 sites:
   - name: Zeus
-    url: https://gateway.treant.io/health/zeusx
+    url: https://gateway.treant.io/health/zeus
   - name: Ares
     url: https://gateway.treant.io/health/ares
   - name: Consus
