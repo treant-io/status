@@ -1,7 +1,7 @@
-url: https://gateway.treant.io/health/zeus
-status: up
-code: 200
-responseTime: 308
-lastUpdated: 2022-06-14T19:18:19.545Z
+url: https://gateway.treant.io/health/zeusx
+status: down
+code: 404
+responseTime: 259
+lastUpdated: 2022-06-14T19:30:44.022Z
 startTime: Tue May 03 2022 20:10:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
