@@ -10,7 +10,7 @@ sites:
   - name: Consus
     url: https://gateway.treant.io/health/consus
   - name: Aquiles
-    url: https://app.treant.iox
+    url: https://app.treant.io
     
 assignees:
   - damianpuente
