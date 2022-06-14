@@ -4,13 +4,13 @@ repo: status # The name of this repository
 
 sites:
   - name: Zeus
-    url: https://gateway.treant.io/health/zeus
+    url: https://gateway.treant.io/health/zeusx
   - name: Ares
-    url: https://gateway.treant.io/health/ares
+    url: https://gateway.treant.io/health/aresx
   - name: Consus
-    url: https://gateway.treant.io/health/consus
+    url: https://gateway.treant.io/health/consusx
   - name: Aquiles
-    url: https://app.treant.io
+    url: https://app.treant.iox
     
 assignees:
   - damianpuente
