@@ -6,7 +6,7 @@ sites:
   - name: Zeus
     url: https://gateway.treant.io/health/zeus
   - name: Ares
-    url: https://gateway.treant.io/health/ares
+    url: https://gateway.treant.io/health/aresx
   - name: Consus
     url: https://gateway.treant.io/health/consus
   - name: Aquiles
