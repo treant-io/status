@@ -163,12 +163,12 @@
     "url": "https://apim.treant.io/health/apolo",
     "icon": "https://icons.duckduckgo.com/ip3/apim.treant.io.ico",
     "slug": "stagging-apolo",
-    "status": "up",
-    "uptime": "97.82%",
-    "uptimeDay": "96.49%",
+    "status": "down",
+    "uptime": "97.85%",
+    "uptimeDay": "96.48%",
     "uptimeWeek": "96.37%",
     "uptimeMonth": "96.55%",
-    "uptimeYear": "97.82%",
+    "uptimeYear": "97.85%",
     "time": 2390,
     "timeDay": 4227,
     "timeWeek": 2300,
@@ -212,7 +212,7 @@
       "2022-12-09": 52,
       "2022-12-08": 54,
       "2022-12-07": 55,
-      "2022-12-06": 66
+      "2022-12-06": 35
     }
   },
   {
