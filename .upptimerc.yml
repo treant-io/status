@@ -9,8 +9,6 @@ sites:
     url: https://api-prod.treant.io/health/ares
   - name: PROD-Consus
     url: https://api-prod.treant.io/health/consus
-  - name: PROD-Apolo
-    url: https://api-prod.treant.io/health/apolo
   - name: PROD-Aquiles
     url: https://app.treant.io
   - name: Stagging-Zeus
@@ -19,8 +17,6 @@ sites:
     url: https://apim.treant.io/health/ares
   - name: Stagging-Consus
     url: https://apim.treant.io/health/consus
-  - name: Stagging-Apolo
-    url: https://apim.treant.io/health/apolo
   - name: Stagging-Aquiles
     url: https://aquiles-staging.treant.io
     
