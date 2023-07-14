@@ -1,7 +1,7 @@
 url: https://api-prod.treant.io/health/zeus
 status: up
 code: 200
-responseTime: 287
-lastUpdated: 2023-07-13T23:02:59.822Z
+responseTime: 350
+lastUpdated: 2023-07-14T23:02:50.832Z
 startTime: Mon Nov 14 2022 16:55:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
