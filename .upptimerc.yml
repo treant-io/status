@@ -19,6 +19,8 @@ sites:
     url: https://apim.treant.io/health/consus
   - name: Stagging-Aquiles
     url: https://aquiles-staging.treant.io
+  - name: Time-Tecro-UI
+    url: https://test-7b58.gentlesmoke-775a1338.eastus.azurecontainerapps.io/ 
     
 assignees:
   - damianpuente
