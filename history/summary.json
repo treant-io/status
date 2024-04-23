@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-prod.treant.io.ico",
     "slug": "prod-zeus",
     "status": "up",
-    "uptime": "81.48%",
+    "uptime": "81.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "76.07%",
-    "time": 4152,
-    "timeDay": 95,
-    "timeWeek": 5484,
-    "timeMonth": 6247,
-    "timeYear": 4792,
+    "uptimeYear": "76.34%",
+    "time": 4164,
+    "timeDay": 9993,
+    "timeWeek": 5552,
+    "timeMonth": 6560,
+    "timeYear": 4806,
     "dailyMinutesDown": {
       "2024-01-12": 25,
       "2024-01-11": 102,
@@ -110,8 +110,7 @@
       "2023-04-28": 1440,
       "2023-04-27": 1440,
       "2023-04-26": 1440,
-      "2023-04-25": 1440,
-      "2023-04-24": 1440
+      "2023-04-25": 1440
     }
   },
   {
@@ -120,16 +119,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-prod.treant.io.ico",
     "slug": "prod-ares",
     "status": "up",
-    "uptime": "86.34%",
+    "uptime": "86.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.82%",
-    "time": 3295,
-    "timeDay": 30,
-    "timeWeek": 6072,
-    "timeMonth": 7082,
-    "timeYear": 4702,
+    "uptimeYear": "82.10%",
+    "time": 3310,
+    "timeDay": 10848,
+    "timeWeek": 6087,
+    "timeMonth": 7430,
+    "timeYear": 4719,
     "dailyMinutesDown": {
       "2024-01-12": 25,
       "2024-01-11": 92,
@@ -205,8 +204,7 @@
       "2023-04-28": 1440,
       "2023-04-27": 1440,
       "2023-04-26": 1440,
-      "2023-04-25": 1440,
-      "2023-04-24": 1440
+      "2023-04-25": 1440
     }
   },
   {
@@ -215,16 +213,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-prod.treant.io.ico",
     "slug": "prod-consus",
     "status": "up",
-    "uptime": "86.33%",
+    "uptime": "86.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.81%",
-    "time": 4925,
-    "timeDay": 89,
-    "timeWeek": 5833,
-    "timeMonth": 6700,
-    "timeYear": 4781,
+    "uptimeYear": "82.08%",
+    "time": 4944,
+    "timeDay": 10437,
+    "timeWeek": 5865,
+    "timeMonth": 7033,
+    "timeYear": 4797,
     "dailyMinutesDown": {
       "2024-01-12": 21,
       "2024-01-11": 153,
@@ -301,8 +299,7 @@
       "2023-04-28": 1440,
       "2023-04-27": 1440,
       "2023-04-26": 1440,
-      "2023-04-25": 1440,
-      "2023-04-24": 1440
+      "2023-04-25": 1440
     }
   },
   {
@@ -317,9 +314,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 242,
-    "timeDay": 247,
-    "timeWeek": 261,
-    "timeMonth": 242,
+    "timeDay": 181,
+    "timeWeek": 231,
+    "timeMonth": 238,
     "timeYear": 248,
     "dailyMinutesDown": {}
   },
@@ -329,18 +326,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/apim.treant.io.ico",
     "slug": "stagging-zeus",
     "status": "down",
-    "uptime": "12.51%",
+    "uptime": "12.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 307,
+    "time": 308,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-22": 5,
+      "2024-04-23": 5,
+      "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
       "2024-04-19": 1440,
@@ -703,8 +701,7 @@
       "2023-04-28": 1440,
       "2023-04-27": 1440,
       "2023-04-26": 1440,
-      "2023-04-25": 1440,
-      "2023-04-24": 1440
+      "2023-04-25": 1440
     }
   },
   {
@@ -713,18 +710,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/apim.treant.io.ico",
     "slug": "stagging-ares",
     "status": "down",
-    "uptime": "11.74%",
+    "uptime": "11.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 83,
+    "time": 84,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-22": 5,
+      "2024-04-23": 5,
+      "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
       "2024-04-19": 1440,
@@ -1087,8 +1085,7 @@
       "2023-04-28": 1440,
       "2023-04-27": 1440,
       "2023-04-26": 1440,
-      "2023-04-25": 1440,
-      "2023-04-24": 1440
+      "2023-04-25": 1440
     }
   },
   {
@@ -1097,18 +1094,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/apim.treant.io.ico",
     "slug": "stagging-consus",
     "status": "down",
-    "uptime": "29.19%",
+    "uptime": "29.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1746,
+    "time": 1758,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-22": 5,
+      "2024-04-23": 5,
+      "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
       "2024-04-19": 1440,
@@ -1471,8 +1469,7 @@
       "2023-04-28": 1440,
       "2023-04-27": 1440,
       "2023-04-26": 1440,
-      "2023-04-25": 1440,
-      "2023-04-24": 1440
+      "2023-04-25": 1440
     }
   },
   {
@@ -1487,9 +1484,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 174,
-    "timeWeek": 195,
-    "timeMonth": 233,
+    "timeDay": 185,
+    "timeWeek": 187,
+    "timeMonth": 230,
     "timeYear": 230,
     "dailyMinutesDown": {}
   }
