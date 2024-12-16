@@ -1,7 +1,7 @@
 url: https://api-prod.treant.io/health/consus
 status: up
 code: 200
-responseTime: 109
-lastUpdated: 2024-12-15T23:02:43.123Z
+responseTime: 11274
+lastUpdated: 2024-12-16T23:03:28.630Z
 startTime: 2022-11-14T16:55:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
