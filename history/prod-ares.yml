@@ -1,7 +1,7 @@
 url: https://api-prod.treant.io/health/ares
 status: up
 code: 200
-responseTime: 12081
-lastUpdated: 2025-06-18T23:03:31.189Z
+responseTime: 48
+lastUpdated: 2025-06-19T23:03:05.408Z
 startTime: 2022-11-14T16:55:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
