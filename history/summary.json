@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.79%",
-    "time": 5205,
-    "timeDay": 262,
-    "timeWeek": 5401,
-    "timeMonth": 5231,
-    "timeYear": 5235,
+    "time": 5210,
+    "timeDay": 12160,
+    "timeWeek": 5460,
+    "timeMonth": 5214,
+    "timeYear": 5241,
     "dailyMinutesDown": {
       "2025-09-25": 76,
       "2025-09-24": 56,
@@ -29,16 +29,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-prod.treant.io.ico",
     "slug": "prod-ares",
     "status": "up",
-    "uptime": "93.21%",
+    "uptime": "93.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.79%",
-    "time": 5421,
-    "timeDay": 152,
-    "timeWeek": 5976,
-    "timeMonth": 4216,
-    "timeYear": 5454,
+    "time": 5398,
+    "timeDay": 132,
+    "timeWeek": 4057,
+    "timeMonth": 3757,
+    "timeYear": 5425,
     "dailyMinutesDown": {
       "2025-09-25": 77,
       "2025-09-24": 54,
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.79%",
-    "time": 5401,
-    "timeDay": 156,
-    "timeWeek": 5881,
-    "timeMonth": 5195,
-    "timeYear": 5485,
+    "time": 5426,
+    "timeDay": 12801,
+    "timeWeek": 5770,
+    "timeMonth": 5135,
+    "timeYear": 5490,
     "dailyMinutesDown": {
       "2025-09-25": 77,
       "2025-09-24": 53,
@@ -81,9 +81,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 354,
-    "timeDay": 199,
-    "timeWeek": 242,
-    "timeMonth": 253,
+    "timeDay": 197,
+    "timeWeek": 231,
+    "timeMonth": 250,
     "timeYear": 317,
     "dailyMinutesDown": {}
   },
@@ -93,7 +93,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/apim.treant.io.ico",
     "slug": "stagging-zeus",
     "status": "down",
-    "uptime": "6.15%",
+    "uptime": "6.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -104,7 +104,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-17": 6,
+      "2025-10-18": 5,
+      "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -467,8 +468,7 @@
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
-      "2024-10-19": 1440,
-      "2024-10-18": 1440
+      "2024-10-19": 1440
     }
   },
   {
@@ -477,7 +477,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/apim.treant.io.ico",
     "slug": "stagging-ares",
     "status": "down",
-    "uptime": "5.77%",
+    "uptime": "5.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -488,7 +488,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-17": 6,
+      "2025-10-18": 5,
+      "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -851,8 +852,7 @@
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
-      "2024-10-19": 1440,
-      "2024-10-18": 1440
+      "2024-10-19": 1440
     }
   },
   {
@@ -861,7 +861,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/apim.treant.io.ico",
     "slug": "stagging-consus",
     "status": "down",
-    "uptime": "14.34%",
+    "uptime": "14.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -872,7 +872,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-17": 6,
+      "2025-10-18": 5,
+      "2025-10-17": 1440,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -1235,8 +1236,7 @@
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
-      "2024-10-19": 1440,
-      "2024-10-18": 1440
+      "2024-10-19": 1440
     }
   },
   {
@@ -1251,8 +1251,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 289,
-    "timeDay": 185,
-    "timeWeek": 334,
+    "timeDay": 176,
+    "timeWeek": 320,
     "timeMonth": 281,
     "timeYear": 292,
     "dailyMinutesDown": {}
