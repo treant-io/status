@@ -1,7 +1,7 @@
 url: https://aquiles-staging.treant.io
-status: down
-code: 503
-responseTime: 5461
-lastUpdated: 2025-10-29T18:05:50.894Z
+status: up
+code: 200
+responseTime: 250
+lastUpdated: 2025-10-29T19:41:26.315Z
 startTime: 2022-11-14T16:55:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
