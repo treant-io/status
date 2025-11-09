@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.77%",
-    "time": 5169,
-    "timeDay": 403,
-    "timeWeek": 5545,
-    "timeMonth": 4838,
+    "time": 5149,
+    "timeDay": 308,
+    "timeWeek": 5514,
+    "timeMonth": 4843,
     "timeYear": 5288,
     "dailyMinutesDown": {
       "2025-10-20": 89,
@@ -30,16 +30,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-prod.treant.io.ico",
     "slug": "prod-ares",
     "status": "up",
-    "uptime": "93.34%",
+    "uptime": "93.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.77%",
-    "time": 5375,
-    "timeDay": 62,
-    "timeWeek": 6062,
+    "time": 5352,
+    "timeDay": 39,
+    "timeWeek": 6056,
     "timeMonth": 5054,
-    "timeYear": 5488,
+    "timeYear": 5487,
     "dailyMinutesDown": {
       "2025-10-20": 88,
       "2025-09-25": 77,
@@ -60,9 +60,9 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.78%",
     "time": 5432,
-    "timeDay": 355,
-    "timeWeek": 5850,
-    "timeMonth": 5635,
+    "timeDay": 102,
+    "timeWeek": 5831,
+    "timeMonth": 5634,
     "timeYear": 5573,
     "dailyMinutesDown": {
       "2025-10-20": 78,
@@ -84,10 +84,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 353,
-    "timeDay": 358,
-    "timeWeek": 277,
+    "timeDay": 178,
+    "timeWeek": 243,
     "timeMonth": 236,
-    "timeYear": 300,
+    "timeYear": 299,
     "dailyMinutesDown": {}
   },
   {
@@ -107,7 +107,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-08": 6,
+      "2025-11-09": 7,
+      "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
@@ -470,8 +471,7 @@
       "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
-      "2024-11-10": 1440,
-      "2024-11-09": 1440
+      "2024-11-10": 1440
     }
   },
   {
@@ -491,7 +491,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-08": 6,
+      "2025-11-09": 7,
+      "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
@@ -854,8 +855,7 @@
       "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
-      "2024-11-10": 1440,
-      "2024-11-09": 1440
+      "2024-11-10": 1440
     }
   },
   {
@@ -864,7 +864,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/apim.treant.io.ico",
     "slug": "stagging-consus",
     "status": "down",
-    "uptime": "14.05%",
+    "uptime": "14.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -875,7 +875,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-08": 6,
+      "2025-11-09": 7,
+      "2025-11-08": 1440,
       "2025-11-07": 1440,
       "2025-11-06": 1440,
       "2025-11-05": 1440,
@@ -1238,8 +1239,7 @@
       "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
-      "2024-11-10": 1440,
-      "2024-11-09": 1440
+      "2024-11-10": 1440
     }
   },
   {
@@ -1254,9 +1254,9 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
     "time": 299,
-    "timeDay": 362,
-    "timeWeek": 314,
-    "timeMonth": 436,
+    "timeDay": 179,
+    "timeWeek": 287,
+    "timeMonth": 435,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2025-10-29": 96
