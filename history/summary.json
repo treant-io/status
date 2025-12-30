@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-prod.treant.io.ico",
     "slug": "prod-zeus",
     "status": "up",
-    "uptime": "91.41%",
+    "uptime": "91.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 5201,
-    "timeDay": 450,
-    "timeWeek": 3868,
-    "timeMonth": 7160,
-    "timeYear": 5487,
+    "time": 5224,
+    "timeDay": 11865,
+    "timeWeek": 5518,
+    "timeMonth": 7146,
+    "timeYear": 5519,
     "dailyMinutesDown": {
       "2025-10-20": 89,
       "2025-09-25": 76,
@@ -28,16 +28,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-prod.treant.io.ico",
     "slug": "prod-ares",
     "status": "up",
-    "uptime": "93.64%",
+    "uptime": "93.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 5589,
-    "timeDay": 78,
-    "timeWeek": 4123,
-    "timeMonth": 8972,
-    "timeYear": 5870,
+    "time": 5595,
+    "timeDay": 14241,
+    "timeWeek": 6153,
+    "timeMonth": 8979,
+    "timeYear": 5909,
     "dailyMinutesDown": {
       "2025-10-20": 88,
       "2025-09-25": 77,
@@ -55,11 +55,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 5595,
-    "timeDay": 167,
-    "timeWeek": 4321,
-    "timeMonth": 8176,
-    "timeYear": 5827,
+    "time": 5627,
+    "timeDay": 16130,
+    "timeWeek": 6611,
+    "timeMonth": 8282,
+    "timeYear": 5870,
     "dailyMinutesDown": {
       "2025-10-20": 78,
       "2025-09-25": 77,
@@ -78,9 +78,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 309,
-    "timeDay": 388,
-    "timeWeek": 320,
-    "timeMonth": 301,
+    "timeDay": 248,
+    "timeWeek": 303,
+    "timeMonth": 294,
     "timeYear": 299,
     "dailyMinutesDown": {}
   },
@@ -101,7 +101,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-29": 7,
+      "2025-12-30": 7,
+      "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
@@ -464,8 +465,7 @@
       "2025-01-03": 1440,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
-      "2024-12-31": 1440,
-      "2024-12-30": 1440
+      "2024-12-31": 1440
     }
   },
   {
@@ -474,7 +474,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/apim.treant.io.ico",
     "slug": "stagging-ares",
     "status": "down",
-    "uptime": "5.40%",
+    "uptime": "5.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -485,7 +485,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-29": 7,
+      "2025-12-30": 7,
+      "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
@@ -848,8 +849,7 @@
       "2025-01-03": 1440,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
-      "2024-12-31": 1440,
-      "2024-12-30": 1440
+      "2024-12-31": 1440
     }
   },
   {
@@ -858,7 +858,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/apim.treant.io.ico",
     "slug": "stagging-consus",
     "status": "down",
-    "uptime": "13.42%",
+    "uptime": "13.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -869,7 +869,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-29": 7,
+      "2025-12-30": 7,
+      "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
@@ -1232,8 +1233,7 @@
       "2025-01-03": 1440,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
-      "2024-12-31": 1440,
-      "2024-12-30": 1440
+      "2024-12-31": 1440
     }
   },
   {
@@ -1248,10 +1248,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 296,
-    "timeDay": 199,
-    "timeWeek": 223,
-    "timeMonth": 265,
-    "timeYear": 300,
+    "timeDay": 230,
+    "timeWeek": 209,
+    "timeMonth": 258,
+    "timeYear": 299,
     "dailyMinutesDown": {
       "2025-10-29": 96
     }
